@@ -1,0 +1,5 @@
+{
+  "name": "TrendStream AI",
+  "description": "A real-time AI-powered dashboard aggregating trending video content across social platforms using Gemini Search Grounding.",
+  "requestFramePermissions": []
+}
